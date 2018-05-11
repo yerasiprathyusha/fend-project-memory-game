@@ -3,7 +3,7 @@
 ## Table of Contents
 
 * [Instructions](#instructions)
-* [How To Play](#how to play)
+* [How To Play](#howtoplay)
 * [Scoring](#scoring)
 * [Rating](#rating)
 
